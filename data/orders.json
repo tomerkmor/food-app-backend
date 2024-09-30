@@ -1,0 +1,24 @@
+[
+  {
+    "order": {
+      "items": [
+        {
+          "id": "m3",
+          "name": "Caesar Salad",
+          "price": "7.99",
+          "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+          "image": "images/caesar-salad.jpg",
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Tomer Mor",
+        "email": "tomermorfe@gmail.com",
+        "street": "Hagra 15",
+        "phone": "0534202508",
+        "postal-code": "5830610",
+        "city": "Holon"
+      }
+    }
+  }
+]
